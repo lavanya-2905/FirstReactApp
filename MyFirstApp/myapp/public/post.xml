@@ -1,0 +1,28 @@
+{
+     "post1":{
+      "title":"Hyundai, GM partner with Korean battery makers to build US plants",
+      "date":"2023-04-25",
+      "author":"Rebecca Bellan",
+      "summary":"Hyundai is partnering with SK On and GM with Samsung SDI to invest $5B and $3B, respectively, in separate battery cell plants in the US.",
+      "image":"https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1237977593.jpg?resize=1200,800",
+      "url":"https://techcrunch.com/2023/04/25/hyundai-gm-partner-with-korean-battery-makers-to-build-us-plants/"
+   },
+
+   "post2":{
+      "title":"Colorado's new right-to-repair law ensures tractor and wheelchair owners get the parts they need",
+      "date":"2023-04-25",
+      "author":"Devin Coldewey",
+      "summary":"EQS-News: Northern Data AG\r\n/ Key word(s): Miscellaneous\r\nArtificial Intelligence to become the growth engine for Northern Data's Cloud Solutions division 24.04.2023 / 15:00 CET/CEST",
+      "image":"https://techcrunch.com/wp-content/uploads/2023/04/deere-repair.jpg?resize=1200,810",
+      "url":"https://techcrunch.com/2023/04/25/colorados-new-right-to-repair-law-ensures-tractor-and-wheelchair-owners-get-the-parts-they-need/"
+   },
+   
+   "post3":{
+      "title":"AI startup Runway launches app to bring users video-to-video generative AI",
+      "date":"2023-04-25",
+      "author":"Lauren Forristal",
+      "summary":"Runway launched its first mobile app yesterday to give users access to Gen-1, its video-to-video generative AI model.",
+      "image":"https://techcrunch.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-25-at-2.10.46-PM.png?resize=1200,618",
+      "url":"https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/"
+   }
+}
